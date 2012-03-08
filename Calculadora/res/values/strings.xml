@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">KP Calculadora</string>
+    <string name="app_name">Calculadora</string>
+    <string name="num1">Digite o numero 1</string>
+    <string name="num2">Digite o numero 2</string>
+    <string name="somar">somar</string>
+</resources>
